@@ -1,0 +1,10 @@
+[package]
+
+name = "rusty"
+version = "0.0.1"
+authors = ["Dimiter Petrov <crackofdusk@gmail.com>"]
+
+[lib]
+
+name = "rusty"
+crate_type = ["staticlib"]

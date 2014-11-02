@@ -1,0 +1,8 @@
+*.a
+*.o
+*.so
+*.gem
+*.log
+ext/rusty/Makefile
+Gemfile.lock
+tmp/
